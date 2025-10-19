@@ -12,66 +12,38 @@
 
 ---
 
-## 🛠️ Skills
+## 🛠️ MERN Stack Skills
 
-**Backend:** Node.js | Express | RESTful APIs | JWT | TypeScript  
-**Frontend:** React | React Router | Redux Toolkit | Tailwind CSS  
-**Databases:** MongoDB | Mongoose | Firebase | PostgreSQL (basic)  
-**Tools & DevOps:** Docker | Postman | Git & GitHub | Railway | Render | Heroku  
-**Testing & Logging:** Jest | Mocha | Chai | Winston | Morgan  
-**Integrations:** Firebase Cloud Messaging | Cloudinary | MPESA Daraja API | Supabase  
-**General:** Agile Workflow | API Documentation | CI/CD Pipelines  
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-95%25-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-92%25-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
----
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-93%25-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-90%25-000000?style=for-the-badge&logo=express&logoColor=white)
 
-## 🎓 Education & Certifications
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-92%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- **Bachelor of Business Information Technology (BBIT)** — Meru University (2024 – Ongoing)  
-- **JavaScript Mastery & Advanced JavaScript** — Code with Mosh (2023 – 2024)  
-- **MERN Stack Development** — Self-taught projects & tutorials (2024)  
-- **REST API Design Best Practices** — Postman Academy (2024)  
-
----
-
-## 💼 Professional Experience
-
-**Freelance Fullstack Developer — Remote** *(Aug 2024 – Present)*  
-- Built fullstack applications with React frontend and Node.js/Express backend.  
-- Integrated JWT authentication and secure role-based authorization.  
-- Optimized database queries to improve performance and reduce API latency.  
-- Deployed production-ready solutions on platforms like Render and Railway.  
-
-**Co-Lead – Web Development Club — Meru University** *(March 2025 – Present)*  
-- Organized fullstack workshops for React, Node.js, and MongoDB.  
-- Led a project team to build an internal API service using Express and MongoDB.  
-- Mentored students on Git workflow, debugging, and API integration techniques.  
-- Hosted weekly coding sessions and monthly project showcases.  
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-85%25-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-90%25-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-90%25-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-**E-commerce API** — Solo Project  
-Backend API for multi-vendor e-commerce with JWT authentication, product management, and MPESA/PayPal integration.  
-[Repo Link](https://github.com/titusmwangi/ecommerce-api)  
-*Tech: Node.js, Express, MongoDB, JWT, Cloudinary, MPESA API*
-
-**Digital Notice Board API**  
-Real-time digital notice board with image uploads and push notifications using Firebase and Cloudinary.  
-[Repo Link](https://github.com/titusmwangi/digital-notice-board)  
-*Tech: Node.js, Express, Firebase, Cloudinary, React*
-
-**Notify Hub**  
-Notification hub for event alerts using Firebase Cloud Messaging and Supabase.  
-*Tech: Node.js, Express, Firebase Cloud Messaging, Supabase, React*
-
-**Goojara Movie API**  
-API scraping and serving movie metadata with trending, genres, and search endpoints.  
-*Tech: Node.js, Express, MongoDB, Web Scraping*
+| Project | Description | Tech Stack | Live / Repo |
+|---------|-------------|------------|-------------|
+| **E-commerce API** | Multi-vendor API with JWT auth, product management, and MPESA integration | Node.js, Express, MongoDB, JWT, Cloudinary | [Repo](https://github.com/titusmwangi/ecommerce-api) |
+| **Digital Notice Board** | Real-time notices with image uploads and push notifications | Node.js, Express, Firebase, Cloudinary, React | [Repo](https://github.com/titusmwangi/digital-notice-board) |
+| **Notify Hub** | Event alert notifications using Firebase Cloud Messaging & Supabase | Node.js, Express, FCM, Supabase, React | [Live](https://your-vercel-link.vercel.app) |
+| **Goojara Movie API** | Movie metadata API with trending, search, and genre endpoints | Node.js, Express, MongoDB, Web Scraping | [Repo](https://github.com/titusmwangi/goojara-api) |
 
 ---
 
-## 🖼️ GitHub Stats & Animations
+## 📈 GitHub Stats
 
 ![Tito's GitHub stats](https://github-readme-stats.vercel.app/api?username=titusmwangi&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=titusmwangi&layout=compact&theme=radical)  
@@ -80,7 +52,14 @@ API scraping and serving movie metadata with trending, genres, and search endpoi
 
 ---
 
-## 💫 Connect with Me
+## 💫 Live Portfolio
+
+Check out my **animated, interactive MERN stack portfolio**:  
+[View Live Portfolio →](https://your-vercel-link.vercel.app)
+
+---
+
+## 🌟 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/titusmwangi)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/titusmwangi)  
@@ -89,3 +68,4 @@ API scraping and serving movie metadata with trending, genres, and search endpoi
 ---
 
 > “Turning ideas into scalable, interactive web applications — one line of code at a time.”
+
