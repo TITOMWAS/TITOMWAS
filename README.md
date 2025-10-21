@@ -55,7 +55,8 @@
 ## 💫 Live Portfolio
 
 Check out my **animated, interactive MERN stack portfolio**:  
-[View Live Portfolio →](my-portfolio536.netlify.app)
+[View Live Portfolio →](https://my-portfolio536.netlify.app)
+
 
 ---
 
