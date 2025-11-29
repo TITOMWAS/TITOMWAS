@@ -5,9 +5,9 @@
 ---
 
 ## 📬 Contact Information
-- **GitHub:** [titusmwangi](https://github.com/titusmwangi)  
+- **GitHub:** [titusmwangi](https://github.com/TITOMWAS)  
 - **Email:** titusmwangi536@gmail.com  
-- **LinkedIn:** [Titus Mwangi](https://www.linkedin.com/in/titusmwangi)  
+- **LinkedIn:** [Titus Mwangi](https://www.linkedin.com/in/titus-gichuhi-1731b7361c)  
 - **Phone:** +254768508458  
 
 ---
